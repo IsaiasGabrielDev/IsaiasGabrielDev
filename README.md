@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Isaias</h1>
+<h1 align="center">Oi 👋, Eu sou o Isaias</h1>
 <h3 align="center">Minha página inicial diz coisas como, Programador, Entusiasta em TI e afins, mas não me limito a isso. Quando tem a oportunidade de me conhecer, percebe-se que eu sou muito mais, sou um cantor e compositor nas horas vagas, alguém que gosta de ensinar e aprender tudo que me sinto desafiado. Eu crio quando motivado e procuro sempre estar desta forma, construo uma boa relação baseada na confiança e admiração com minha equipe e superiores. Assim desenvolvo meu trabalho e tento auxiliar meus companheiros de equipe, meu trabalho pode ser o mais simples ou um dos mais complexos, faço com empenho e capricho. Sou muito curioso e essa curiosidade se encaixa perfeitamente na área em que atuo, com o avanço e acessibilidade da tecnologia temos diversos meios de se obter conhecimento, portanto, adaptar e criar baseando-se em alguma referência é um recurso que utilizo regularmente.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=isaiasgabrieldev&label=Profile%20views&color=0e75b6&style=flat" alt="isaiasgabrieldev" /> </p>
