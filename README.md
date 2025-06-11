@@ -7,7 +7,7 @@
 
 - 📫 Meu email **isaiasgabrielhub@gmail.com**
 
-- ⚡ Fato Engraçado **Rodei vários setores de TI até me achar na programação.**
+- ⚡ Fato Engraçado **Rodei alguns setores de TI até me achar na programação.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
